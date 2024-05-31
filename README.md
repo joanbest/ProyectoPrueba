@@ -1,2 +1,1 @@
-mi prieycto en GIT
-git commit -n "Mi proyecto"
+Mi proyecto en GIT
